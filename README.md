@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.no:4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/SaravananPV3010/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139754526/731bb5f7-745b-4f74-864e-aeab8f83d243)
 
-### Output:
 
-
-### Name:
-### Register Number:
+## Output:
+### Name: HARISHKUMAR R
+### Register Number: 212223230073
+![image](https://github.com/SaravananPV3010/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139754526/f36a87a1-b5a2-4f4d-899d-263e43e624a2)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
