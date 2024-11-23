@@ -38,7 +38,7 @@
 
 ### Name: HARISHKUMAR R
 ### Register Number: 212223230073
-![image](https://github.com/SaravananPV3010/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139754526/f36a87a1-b5a2-4f4d-899d-263e43e624a2)
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
